@@ -1,0 +1,5 @@
+This is a modified text file.
+It contains multiple lines.
+File operations in Java are simple!
+
+This line was appended during modification.
